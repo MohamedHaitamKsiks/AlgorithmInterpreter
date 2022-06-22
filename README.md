@@ -7,7 +7,7 @@ Conditions
 Static Types Variables
 Console I/O
 
-##Code example
+## Code example
 
     VAR
         k,nombre,f : ENTIER;
